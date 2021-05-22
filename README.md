@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gary and welcome to my GitHub bio.
-- 😎 Currently studying my BA Information Systems Managment degree.
+- 😎 Currently studying for my BA Information Systems Managment degree.
 - 🌱 I love Python.
 
 <!---
