@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gary and welcome to my GitHub bio.
 - 😎 Currently studying my BA Information Systems Managment degree.
-- 🌱 I'm a junior Python developer.
+- 🌱 I love Python.
 
 <!---
 GaryKo20/GaryKo20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
